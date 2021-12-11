@@ -10,7 +10,6 @@ export default (props) => (
         </header>
         <main>
             <CorpoHome />
-            <hr />
         </main>
         <footer>
 
