@@ -1,0 +1,14 @@
+.caixaFoto {
+    border: 2px solid rgb(156, 156, 156);
+    border-radius: 300px;
+    width: 400px;
+    height: 400px;
+    overflow: hidden;
+    display: block;
+    align-items: center;
+}
+
+img {
+    width: 500px;
+    margin: -110px -40px;
+}
